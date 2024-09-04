@@ -1,0 +1,179 @@
+.a
+{
+ background-color: darkslateblue;
+ line-height:60px;
+ color:white;
+ display:flex;
+}
+.b
+{
+    border:solid darkslateblue;
+    height:50px;
+    width:300px;
+}
+.c{
+    text-decoration: dotted ;
+    color:white;
+    font-weight:bold;
+}
+.c:hover
+{
+    color:crimson;
+ }
+div::first-letter
+{
+    color:orange;
+}
+button
+{
+  background-color:burlywood;
+  color:rgb(43, 8, 78);
+}
+button:hover
+{
+background-color: green;
+color:white;
+}
+.e
+{
+    display:flex; 
+    flex-direction: row; 
+}
+.f
+{
+    border:solid white;
+    width:300px;
+    height:40px;
+}
+.d
+{ 
+    color:black;
+    text-decoration: double red underline;
+    line-height:40px;
+    font-weight: bold;
+}
+.d:hover
+{
+ color:blue;
+ text-decoration-color: purple;
+}
+.g
+{
+    display:flex;
+}
+.h
+{
+    border:solid white;
+    width:300px;
+    height:40px;
+
+}
+.k
+{
+    display:flex;
+    line-height:500px;
+}
+.j
+{ 
+    width:300px;
+    height:40px;
+    text-align:center;
+    font-weight:bold;
+    text-decoration: none;
+}
+.i
+{
+    text-decoration:dashed darkblue underline;
+    color:brown;
+}
+.i:hover
+{
+color:blue;
+text-decoration-color: aqua;
+}
+.l
+{
+    display:flex;
+    line-height:1100px;
+}
+.m
+{
+    width:300px;
+    height:40px;
+}
+.n
+{
+    display:flex;
+    line-height:1100px;
+}
+.o{
+    width:300px;
+    height:40px;
+    text-align:center;
+    font-weight:bold;
+    text-decoration: none;
+}
+.p
+{
+    text-decoration: wavy darkblue underline;
+    color:brown;
+}
+.p:hover
+{
+color:blue;
+text-decoration-color: aqua;
+}
+.q
+{
+    display:flex;
+    line-height:1700px;
+}
+.r
+{
+    width:300px;
+    height:40px;
+}
+.s
+{
+    display:flex;
+    line-height:1720px;
+}
+.t
+{
+    width:300px;
+    height:40px;
+    text-align:center;
+    font-weight:bold; 
+}
+.v
+{
+    display:flex;
+    line-height:2330px;
+}
+.w
+{
+    width:300px;
+    height:40px;
+}
+.x
+{
+    display:flex;
+    line-height:2370px;
+}
+.y
+{
+    width:300px;
+    height:40px;
+    text-align:center;
+    font-weight:bold;
+}
+.a1
+{   line-height: 2700px;;
+    text-align: center;
+    font-weight:bold;
+}
+.a2
+{
+    color:green;
+    text-decoration: green double underline;
+}
